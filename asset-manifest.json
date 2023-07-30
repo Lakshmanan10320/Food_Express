@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/food_express/static/css/main.c56ac025.css",
+    "main.js": "/food_express/static/js/main.610688c5.js",
+    "static/media/meals5.PNG": "/food_express/static/media/meals5.c1058cbe29ece0e80e31.PNG",
+    "static/media/meals7.PNG": "/food_express/static/media/meals7.5411e07486f533e2b3fb.PNG",
+    "static/media/meals1.PNG": "/food_express/static/media/meals1.241a4c96aa4891671289.PNG",
+    "static/media/meals2.PNG": "/food_express/static/media/meals2.652f3bb03b09a0147a0d.PNG",
+    "static/media/cimg8.PNG": "/food_express/static/media/cimg8.46ab9f058329cd3da31a.PNG",
+    "static/media/cimg13.PNG": "/food_express/static/media/cimg13.41e8400ba2f609891abd.PNG",
+    "static/media/cimg10.PNG": "/food_express/static/media/cimg10.8f129ec86eb9ef3420b7.PNG",
+    "static/media/cimg9.PNG": "/food_express/static/media/cimg9.81447d2a7dd6ba7e205f.PNG",
+    "static/media/meals3.PNG": "/food_express/static/media/meals3.315aeda0c8d1e99f9d70.PNG",
+    "static/media/cimg12.PNG": "/food_express/static/media/cimg12.1d23604fcea4dbb9f8a3.PNG",
+    "static/media/meals6.PNG": "/food_express/static/media/meals6.6598ca6999ba2ebe4082.PNG",
+    "static/media/meals4.PNG": "/food_express/static/media/meals4.c24bf8aa1d0446db410c.PNG",
+    "static/media/cimg14.PNG": "/food_express/static/media/cimg14.61ca2e08dbf30f08f5c0.PNG",
+    "static/media/cimg11.PNG": "/food_express/static/media/cimg11.0632d11c70773b0ffb09.PNG",
+    "static/media/cimg2.PNG": "/food_express/static/media/cimg2.37ba4c1a22585fc3ccb0.PNG",
+    "static/media/cimg4.PNG": "/food_express/static/media/cimg4.f72a6912f871ff487ab0.PNG",
+    "static/media/cimg3.PNG": "/food_express/static/media/cimg3.1c43a8d730fd94a929f4.PNG",
+    "static/media/cimg6.PNG": "/food_express/static/media/cimg6.32231d2024fd41a7bb23.PNG",
+    "static/media/cimg7.PNG": "/food_express/static/media/cimg7.50cf6187a28a8bbd2d32.PNG",
+    "static/media/cimg1.PNG": "/food_express/static/media/cimg1.7d49ee1bb1ec1b53665e.PNG",
+    "static/media/cimg5.PNG": "/food_express/static/media/cimg5.61e82862e4aaf2269679.PNG",
+    "static/media/revicons.eot": "/food_express/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/food_express/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/food_express/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/food_express/index.html",
+    "main.c56ac025.css.map": "/food_express/static/css/main.c56ac025.css.map",
+    "main.610688c5.js.map": "/food_express/static/js/main.610688c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c56ac025.css",
+    "static/js/main.610688c5.js"
+  ]
+}
